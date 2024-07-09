@@ -19,7 +19,7 @@ margin-top: 32px;
 background: rgb(13, 19, 33);
 }
 #hero{
-    height:582px;
+    height:652px;
     background-image: url(image), url("../images/Hero-bg.png");
     background-size: cover;
     background-position: center;
