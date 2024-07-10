@@ -382,3 +382,23 @@ border-radius: 8px;
 
 
 }
+.footer-column{
+    /* Frame 24 */
+position: static;
+width: 1140px;
+height: 36px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+}
