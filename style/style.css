@@ -54,3 +54,34 @@ margin-top: 24px;
 
 
 }
+#h-middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#h-middle .h-middle-content{
+    Width: 852px;
+   margin:0 auto;
+}
+#h-middle .h-middle-content .h-title{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 80px;
+}
+#h-middle .h-middle-content .h-description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 24px;
+
+}
