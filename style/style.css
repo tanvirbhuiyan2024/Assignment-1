@@ -322,3 +322,63 @@ margin-bottom: 111px;
 .skill-1{
     background-color: brown;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+#last{
+   
+
+background-image:url(../images/handshake.jpg);
+
+width: 1140px;
+height: 314px;
+background-size: cover;
+background-position: center;
+display: flex;
+justify-content: center;
+align-items: center;
+
+margin:  150px 150px 179px 150px;
+}
+#last .last-content{
+    width: 1044px;
+   
+
+}
+#last .last-content .last-titel{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+}
+#last .last-content .last-description{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+
+}
+#last .last-content .last-text{
+    color: rgba(13, 19, 33, 0.4);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+box-sizing: border-box ;
+
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+
+
+}
